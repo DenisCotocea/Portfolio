@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Potography Portfolio Website",
-    description: "Project 2 description",
+    description: "Work in Progress",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "E-commerce Application",
-    description: "Project 3 description",
+    description: "Work in Progress",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Food Ordering Application",
-    description: "Project 4 description",
+    description: "Work in Progress",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
